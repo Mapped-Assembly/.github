@@ -8,7 +8,7 @@ Mapped Assembly builds open-source software for the path from an idea to a physi
 
 | Project | What it does |
 | --- | --- |
-| [Forma](https://github.com/Mapped-Assembly/forma-oss) | Turns design requirements into inspectable CAD, wiring, bills of materials, and assembly instructions. |
+| [OpenForma](https://github.com/Mapped-Assembly/forma-oss) | Turns design requirements into inspectable CAD, wiring, bills of materials, and assembly instructions. |
 | [OpenCAD](https://github.com/Mapped-Assembly/Open-CAD) | Provides a modular toolkit for parametric, programmable, and agent-assisted CAD. |
 | [OpenIndustries](https://github.com/Mapped-Assembly/Open-Industries) | Places hardware in a browser-based 3D workspace for layout, motion, and workflow review. |
 | [CleanRoomOS](https://github.com/Mapped-Assembly/CleanRoomOS) | Demonstrates validated, human-gated planning and evidence workflows for cleanroom sampling. |
